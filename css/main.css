@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 .reduced-image {
     max-width: 50%;
-    background-color: lightgreen;
+    background-color: rgb(88, 146, 88);
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -9,4 +12,20 @@
 .none-float{
     float: none;
     justify-content: center;
+}
+
+.font-mansalva {
+    font-family: 'Indie Flower', cursive;
+}
+
+.font-color {
+    color: rgb(88, 146, 88);
+}
+
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.font-small {
+    font-size: 1em;
 }
