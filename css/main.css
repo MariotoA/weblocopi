@@ -1,0 +1,12 @@
+.reduced-image {
+    max-width: 50%;
+    background-color: lightgreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.none-float{
+    float: none;
+    justify-content: center;
+}
